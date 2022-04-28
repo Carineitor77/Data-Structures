@@ -1,0 +1,15 @@
+D:\VS project\.NET\DataStructures\Stack\bin\Debug\net6.0\Stack.exe
+D:\VS project\.NET\DataStructures\Stack\bin\Debug\net6.0\Stack.deps.json
+D:\VS project\.NET\DataStructures\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+D:\VS project\.NET\DataStructures\Stack\bin\Debug\net6.0\Stack.dll
+D:\VS project\.NET\DataStructures\Stack\bin\Debug\net6.0\ref\Stack.dll
+D:\VS project\.NET\DataStructures\Stack\bin\Debug\net6.0\Stack.pdb
+D:\VS project\.NET\DataStructures\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+D:\VS project\.NET\DataStructures\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\.NET\DataStructures\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+D:\VS project\.NET\DataStructures\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+D:\VS project\.NET\DataStructures\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+D:\VS project\.NET\DataStructures\Stack\obj\Debug\net6.0\Stack.dll
+D:\VS project\.NET\DataStructures\Stack\obj\Debug\net6.0\ref\Stack.dll
+D:\VS project\.NET\DataStructures\Stack\obj\Debug\net6.0\Stack.pdb
+D:\VS project\.NET\DataStructures\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
