@@ -1,0 +1,15 @@
+D:\VS project\.NET\DataStructures\BinaryHeap\bin\Debug\net6.0\BinaryHeap.exe
+D:\VS project\.NET\DataStructures\BinaryHeap\bin\Debug\net6.0\BinaryHeap.deps.json
+D:\VS project\.NET\DataStructures\BinaryHeap\bin\Debug\net6.0\BinaryHeap.runtimeconfig.json
+D:\VS project\.NET\DataStructures\BinaryHeap\bin\Debug\net6.0\BinaryHeap.dll
+D:\VS project\.NET\DataStructures\BinaryHeap\bin\Debug\net6.0\BinaryHeap.pdb
+D:\VS project\.NET\DataStructures\BinaryHeap\obj\Debug\net6.0\BinaryHeap.csproj.AssemblyReference.cache
+D:\VS project\.NET\DataStructures\BinaryHeap\obj\Debug\net6.0\BinaryHeap.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\.NET\DataStructures\BinaryHeap\obj\Debug\net6.0\BinaryHeap.AssemblyInfoInputs.cache
+D:\VS project\.NET\DataStructures\BinaryHeap\obj\Debug\net6.0\BinaryHeap.AssemblyInfo.cs
+D:\VS project\.NET\DataStructures\BinaryHeap\obj\Debug\net6.0\BinaryHeap.csproj.CoreCompileInputs.cache
+D:\VS project\.NET\DataStructures\BinaryHeap\obj\Debug\net6.0\BinaryHeap.dll
+D:\VS project\.NET\DataStructures\BinaryHeap\obj\Debug\net6.0\refint\BinaryHeap.dll
+D:\VS project\.NET\DataStructures\BinaryHeap\obj\Debug\net6.0\BinaryHeap.pdb
+D:\VS project\.NET\DataStructures\BinaryHeap\obj\Debug\net6.0\BinaryHeap.genruntimeconfig.cache
+D:\VS project\.NET\DataStructures\BinaryHeap\obj\Debug\net6.0\ref\BinaryHeap.dll
