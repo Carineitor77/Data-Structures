@@ -1,0 +1,15 @@
+D:\VS project\.NET\DataStructures\Graph\bin\Debug\net6.0\Graph.exe
+D:\VS project\.NET\DataStructures\Graph\bin\Debug\net6.0\Graph.deps.json
+D:\VS project\.NET\DataStructures\Graph\bin\Debug\net6.0\Graph.runtimeconfig.json
+D:\VS project\.NET\DataStructures\Graph\bin\Debug\net6.0\Graph.dll
+D:\VS project\.NET\DataStructures\Graph\bin\Debug\net6.0\Graph.pdb
+D:\VS project\.NET\DataStructures\Graph\obj\Debug\net6.0\Graph.csproj.AssemblyReference.cache
+D:\VS project\.NET\DataStructures\Graph\obj\Debug\net6.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\.NET\DataStructures\Graph\obj\Debug\net6.0\Graph.AssemblyInfoInputs.cache
+D:\VS project\.NET\DataStructures\Graph\obj\Debug\net6.0\Graph.AssemblyInfo.cs
+D:\VS project\.NET\DataStructures\Graph\obj\Debug\net6.0\Graph.csproj.CoreCompileInputs.cache
+D:\VS project\.NET\DataStructures\Graph\obj\Debug\net6.0\Graph.dll
+D:\VS project\.NET\DataStructures\Graph\obj\Debug\net6.0\refint\Graph.dll
+D:\VS project\.NET\DataStructures\Graph\obj\Debug\net6.0\Graph.pdb
+D:\VS project\.NET\DataStructures\Graph\obj\Debug\net6.0\Graph.genruntimeconfig.cache
+D:\VS project\.NET\DataStructures\Graph\obj\Debug\net6.0\ref\Graph.dll
